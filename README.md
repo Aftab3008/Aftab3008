@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdzeGQ3M3d2MTlpdm54aWJ2dWpxYm9yeWk1djM4M2RuN2kxc3UwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" height="400" width="400" src="https://github.com/Aftab3008/Aftab3008/blob/main/profile.gif"  />
 
 ###
 
