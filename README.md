@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="400" width="400" src="https://github.com/Aftab3008/Aftab3008/blob/main/profile.gif"  />
+<img  height="600" width="100%" src="./dev.gif"  />
 
 ###
 
