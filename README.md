@@ -84,6 +84,9 @@
   <a href="https://leetcode.com/u/shaikaftab005/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
+  <a href="https://www.codechef.com/users/aftab005" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CodeChef logo" />
+  </a>
 </div>
 
 ###
